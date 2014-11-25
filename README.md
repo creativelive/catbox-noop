@@ -1,4 +1,5 @@
-catbox-noop
-===========
+cabox-noop
+[![Circle CI](https://circleci.com/gh/creativelive/catbox-noop.png?style=badge)](https://circleci.com/gh/creativelive/catbox-noop)
+========================
 
-catbox no-op plugin
+No-op engine for catbox that disables caching
